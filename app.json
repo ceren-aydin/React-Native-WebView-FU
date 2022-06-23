@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "WebView",
+    "slug": "WebView",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/fü.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fü.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#78113e"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fü.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/fü.png"
+    }
+  }
+}
